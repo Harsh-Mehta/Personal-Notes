@@ -2,7 +2,7 @@
 
 DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
 
-![](https://imaginenext.ingrammicro.com/ingrammicroadvisor/media/imlibrary/site/d/datacenter/images/lh2020-16230c2-devops.jpg?ext=.jpg)
+![](../assets/DevOps_Lifecycle.jpg)
 
 ## Benefits
 * **Speed** <br>
