@@ -55,5 +55,5 @@ Amazon Web Services (AWS) owns and maintains the network-connected hardware requ
 
 Region Table: https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services
 
-# AWS Shared Responsibity Model
-![](../assets/AWS_Shared_Responsibility_Model_V2.jpg)
+# AWS Shared Responsibility
+![](../../assets/AWS_Shared_Responsibility_Model_V2.jpg)

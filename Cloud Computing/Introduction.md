@@ -66,6 +66,3 @@
     * Completed product that is run and managed by the service provider
 
 ![](../assets/responsibilities-of-cloud-service-models.png)
-
-# AWS Shared Responsibility
-![](../assets/AWS_Shared_Responsibility_Model_V2.jpg)
