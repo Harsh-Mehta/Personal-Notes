@@ -134,8 +134,6 @@ AWS Identity and Access Management (IAM) provides fine-grained access control ac
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | * Infrastructure (global<br>network security)<br>* Configuration and<br>vulnerability analysis<br>* Compliance validation | * Users, Groups, Roles, Policies management and monitoring<br>* Enable MFA on all accounts<br>* Rotate all your keys often<br>* Use IAM tools to apply appropriate permissions<br>* Analyze access patterns & review permissions |
 
-![](../../../../assets/AWS_Shared_Responsibility_Model_V2.jpg)
-
 # Best Practices
 * Don’t use the root account except for AWS account setup
 * One physical user = One AWS user
