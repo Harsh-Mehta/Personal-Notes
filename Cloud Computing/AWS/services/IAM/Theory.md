@@ -130,9 +130,15 @@ AWS Identity and Access Management (IAM) provides fine-grained access control ac
 * Secret Access Key ~= password
 
 # Shared Responsibity for IAM
-| AWS                                                                                                                       | User                                                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| * Infrastructure (global<br>network security)<br>* Configuration and<br>vulnerability analysis<br>* Compliance validation | * Users, Groups, Roles, Policies management and monitoring<br>* Enable MFA on all accounts<br>* Rotate all your keys often<br>* Use IAM tools to apply appropriate permissions<br>* Analyze access patterns & review permissions |
++--------------------------------------------+------------------------------------------------------------+
+| AWS                                        | User                                                       |
++============================================+============================================================+
+| * Infrastructure (global network security) | * Users, Groups, Roles, Policies management and monitoring |
+| * Configuration and vulnerability analysis | * Enable MFA on all accounts                               |
+| * Compliance validation                    | * Rotate all your keys often                               |
+|                                            | * Use IAM tools to apply for appropriate permissions       |
+|                                            | * Analyse access patterns & review permissions             |
++--------------------------------------------+------------------------------------------------------------+
 
 # Best Practices
 * Don’t use the root account except for AWS account setup
